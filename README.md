@@ -1,0 +1,2 @@
+# Galaxy_Prediction
+Galaxies come in different shapes, sizes, and ages: from beautiful spirals (like our Milky Way) to huge ellipticals. To understand how these morphologies of galaxies relate to their underlying physics, galaxies morphologies classification is a crucial step. However, it is unlikely to manually classify millions of galaxies observed by modern sky surveys. Hence, our goal is to help astronomers automatically classify galaxies by building a machine learning model from analyzing manually classified galaxy images.
